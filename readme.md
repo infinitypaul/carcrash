@@ -6,6 +6,12 @@
 
 ## Download Instruction
 
+> Application Requirements
+* PHP >= 5.6.4
+* OpenSSL PHP Extension
+* PDO PHP Extension
+* Mbstring PHP Extension
+
 1. Clone the project.
 
 ```
@@ -61,7 +67,12 @@ GET http://localhost/vehicles/<MODEL YEAR>/<MANUFACTURER>/<MODEL>?withRating=tru
 POST http://localhost/vehicles
 ```
 
-Where http://localhost/ is your Base Url, You Can Replace it with yours
+Where:
+    * http://localhost/ is your Base Url, You Can Replace it with yours
+    * <MODEL YEAR>, <MANUFACTURER> and <MODEL> are variables that are used when calling the NHTSA API. Example values for these are:
+    * <MODEL YEAR>: 2015
+    * <MANUFACTURER>: Audi
+    * <MODEL>: A3
 
 ### License
 
