@@ -1,0 +1,165 @@
+POST http://carcrash.test/vehicles?year=2015&manufacturer=Toyota&model=Yaris&withRating=true
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-27T091204.200.json
+
+###
+
+POST http://carcrash.test/vehicles?year=2015&manufacturer=Toyota&model=Yaris
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-27T091041.200.json
+
+###
+
+POST http://carcrash.test/vehicles?year=2015&manufacturer=Toyota&model=Yaris
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103823.200.json
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103731.200.json
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103629.200.html
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103627.200.html
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103625.200.html
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103608.200.html
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103549.200.json
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103511.500.html
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103458.500.html
+
+###
+
+POST http://carcrash.test/vehicles?year=2015
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103442.500.html
+
+###
+
+POST http://carcrash.test/vehicles
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-03-26T103422.500.html
+
+###
+
+POST http://carcrash.test/vehicles
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-26T103317.500.html
+
+###
+
+POST http://carcrash.test/vehicles
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-26T103314.500.html
+
+###
+
+POST http://carcrash.test/vehicles
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-26T103303.419.html
+
+###
+
+POST http://carcrash.test/vehicles
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-26T103230.419.html
+
+###
+
+GET http://carcrash.test/vehicles/2015/Toyota/Yaris
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-26T103215.200.html
+
+###
+
+GET http://carcrash.test/vehicles/2015/Toyota/Yaris
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-26T103159.200.html
+
+###
+

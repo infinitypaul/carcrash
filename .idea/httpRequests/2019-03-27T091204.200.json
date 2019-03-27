@@ -1,0 +1,15 @@
+{
+    "Count": 2,
+    "Results": [
+        {
+            "CrashRating": "Not Rated",
+            "Description": "2015 Toyota Yaris 3 HB FWD",
+            "VehicleId": 9791
+        },
+        {
+            "CrashRating": "4",
+            "Description": "2015 Toyota Yaris Liftback 5 HB FWD",
+            "VehicleId": 9146
+        }
+    ]
+}
