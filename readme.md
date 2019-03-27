@@ -69,8 +69,8 @@ POST http://localhost/vehicles
 
 Where:
 * http://localhost/ is your Base Url, You Can Replace it with yours
-* <MODEL YEAR>, <MANUFACTURER> and <MODEL> are variables that are used when calling the NHTSA API. Example values for these are:
-* <MODEL YEAR>: 2015  <MANUFACTURER>: Audi  <MODEL>: A3
+* MODEL YEAR, MANUFACTURER and MODEL are variables that are used when calling the NHTSA API. Example values for these are:
+* MODEL YEAR: 2015  MANUFACTURER: Audi  MODEL: A3
 
 ### License
 
