@@ -30,6 +30,8 @@ composer install
 php artisan serve
 ```
 
+<p>&nbsp;</p>
+
 > You can also install the Application via Docker:
 
 ## Pre-requisites
